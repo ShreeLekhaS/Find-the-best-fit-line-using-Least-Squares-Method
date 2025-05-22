@@ -16,7 +16,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 5. Use the slope m and the y -intercept to form the equation of the line.
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
-## Program:
+## Program and Output:
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
@@ -62,10 +62,6 @@ plt.plot(x,y_predicted)
 plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/4c90a04c-c4b7-4a72-84f9-ccc6f988c99b)
-
-
-## Output:
-![best fit line](sam.png)
 
 
 ## Result:
